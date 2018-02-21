@@ -1,0 +1,134 @@
+<manifest alg="2" build="569" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1415629200939">
+  <folder name="assets">
+    <file name="website-1.muse" crc="242911555" mt="1415629156000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="index.css" crc="57517943" ref="index"/>
+    <file name="about-us.css" crc="4045312711" ref="about-us"/>
+    <file name="army.css" crc="470155638" ref="army"/>
+    <file name="navy.css" crc="4174539133" ref="navy"/>
+    <file name="air-force.css" crc="4103597191" ref="air-force"/>
+    <file name="register.css" crc="397397898" ref="register"/>
+    <file name="vehicles.css" crc="251735165" ref="vehicles"/>
+    <file name="airforcevehicles.css" crc="3872020832" ref="airforcevehicles"/>
+    <file name="armyvehicles.css" crc="169883183" ref="armyvehicles"/>
+    <file name="navyvehicles.css" crc="228762923" ref="navyvehicles"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index:army:navy:air-force:about-us:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="museutils.js" crc="4050293121" ref="index:army:navy:air-force:about-us:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:register"/>
+    <file name="jquery.musemenu.js" crc="4027237583" ref="index:army:navy:air-force:about-us:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index:army:navy:air-force:about-us:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:army:navy:air-force:about-us:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="84270510" ref="army:air-force:navy:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="webpro.js" crc="140723489" ref="army:navy:air-force:index:about-us:register:navyvehicles:airforcevehicles:armyvehicles"/>
+    <file name="musewpdisclosure.js" crc="4078529368" ref="army:navy:air-force"/>
+    <file name="musewpslideshow.js" crc="4170221289" ref="index:about-us:navyvehicles:airforcevehicles:armyvehicles"/>
+    <file name="jquery.museoverlay.js" crc="439400757" ref="index:about-us:navyvehicles:airforcevehicles:armyvehicles"/>
+    <file name="touchswipe.js" crc="321465556" ref="index:about-us:navyvehicles:airforcevehicles:armyvehicles"/>
+    <file name="form_check.php" crc="403614247" ref="register"/>
+    <file name="form_throttle.php" crc="95597783" ref="register"/>
+    <file name="form_process.php" crc="4006952737" ref="register"/>
+    <file name="form-u2245.php" crc="386482217" ref="register"/>
+  </folder>
+  <folder name="images">
+    <file name="10519-mcdonnell-douglas-f-15-eagle-1366x768-aircraft-wallpaper.jpg" crc="134645526" ref="index:about-us"/>
+    <file name="logo-r.gif" crc="3859355928" ref="index:army:navy:air-force:about-us:vehicles:navyvehicles:airforcevehicles:armyvehicles:register"/>
+    <file name="u644-grad.png" crc="3879771185" ref="index:about-us:vehicles:register"/>
+    <file name="u635-r-grad.png" crc="4106121849" ref="index:about-us:vehicles:register"/>
+    <file name="u635-m-grad.png" crc="3843591445" ref="index:about-us:vehicles:register"/>
+    <file name="ex vijayee bhava in progress (12)-701420.jpg" crc="387390097" ref="army:armyvehicles"/>
+    <file name="aircraft-carrier-ins-vikramaditya-indian-navy.jpg" crc="4158139310" ref="navy:navyvehicles"/>
+    <file name="u724-grad.png" crc="4166416069" ref="navy"/>
+    <file name="u724-r-grad.png" crc="3767383288" ref="navy:air-force"/>
+    <file name="u724-m-grad.png" crc="394610844" ref="navy:air-force"/>
+    <file name="su_30_by_petervanstigt-d5d9xhi.jpg" crc="312585112" ref="air-force:airforcevehicles"/>
+    <file name="u815-grad.png" crc="4195977829" ref="air-force"/>
+    <file name="aircraft-carrier-ins-vikramaditya-indian-navy-crop-u1155.jpg" crc="91663901" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us"/>
+    <file name="ex vijayee bhava in progress (12)-701420-crop-u1193.jpg" crc="3895273492" ref="index"/>
+    <file name="su_30_by_petervanstigt-d5d9xhi-crop-u1202.jpg" crc="2277641" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about-us"/>
+    <file name="aircraft-carrier-ins-vikramaditya-indian-navy-crop-u1215.jpg" crc="91663901" ref="about-us"/>
+    <file name="ex vijayee bhava in progress (12)-701420-crop-u1217.jpg" crc="3895273492" ref="about-us"/>
+    <file name="su_30_by_petervanstigt-d5d9xhi-crop-u1213.jpg" crc="2277641" ref="about-us"/>
+    <file name="t-90-bhishma-iso1-u1616-fr.jpg" crc="362551920" ref="vehicles"/>
+    <file name="aircraft-carrier-ins-vikramaditya-indian-navy-04-u1618-fr.jpg" crc="82758795" ref="vehicles"/>
+    <file name="su-30mki_super sukhois_1-u1619-fr.jpg" crc="3998911691" ref="vehicles"/>
+    <file name="u703-grad.png" crc="350015719" ref="army"/>
+    <file name="u703-r-grad.png" crc="4277791207" ref="army"/>
+    <file name="u703-m-grad.png" crc="241460815" ref="army"/>
+    <file name="10519-mcdonnell-douglas-f-15-eagle-1366x768-aircraft-wallpaper2.jpg" crc="134645526" ref="vehicles:register"/>
+    <file name="u2270-17.png" crc="350337104" ref="register"/>
+    <file name="u2270-17-r.png" crc="4251030726" ref="register"/>
+    <file name="u2270-17-m.png" crc="4082660061" ref="register"/>
+    <file name="u2270-17-fs.png" crc="306535065" ref="register"/>
+    <file name="u1774-grad.png" crc="3788251275" ref="navyvehicles"/>
+    <file name="u1774-r-grad.png" crc="4066940726" ref="navyvehicles:airforcevehicles"/>
+    <file name="u1774-m-grad.png" crc="318489317" ref="navyvehicles:airforcevehicles"/>
+    <file name="pasted image 200x132.jpg" crc="4059514089" ref="navyvehicles"/>
+    <file name="pasted image 200x133.jpg" crc="3789733037" ref="navyvehicles"/>
+    <file name="pasted image 200x107.jpg" crc="4161421919" ref="navyvehicles"/>
+    <file name="pasted image 200x130.jpg" crc="242156537" ref="navyvehicles"/>
+    <file name="pasted image 200x137.jpg" crc="115359581" ref="navyvehicles"/>
+    <file name="pasted image 200x86.jpg" crc="4038184953" ref="navyvehicles"/>
+    <file name="pasted image 200x1332.jpg" crc="515845334" ref="navyvehicles"/>
+    <file name="pasted image 200x114.jpg" crc="3872250057" ref="navyvehicles"/>
+    <file name="pasted image 200x128.jpg" crc="3958305537" ref="navyvehicles"/>
+    <file name="pasted image 200x1333.jpg" crc="111542626" ref="navyvehicles"/>
+    <file name="pasted image 200x121.jpg" crc="363115636" ref="navyvehicles"/>
+    <file name="pasted image 200x1302.jpg" crc="4091902839" ref="navyvehicles"/>
+    <file name="pasted image 200x150.jpg" crc="120427986" ref="navyvehicles"/>
+    <file name="u1898-grad.png" crc="4195977829" ref="airforcevehicles"/>
+    <file name="pasted image 170x127.jpg" crc="3779832787" ref="airforcevehicles"/>
+    <file name="pasted image 170x113.jpg" crc="4241533514" ref="airforcevehicles"/>
+    <file name="pasted image 170x110.jpg" crc="193280088" ref="airforcevehicles"/>
+    <file name="pasted image 170x1272.jpg" crc="167354989" ref="airforcevehicles"/>
+    <file name="pasted image 170x128.jpg" crc="3923145551" ref="airforcevehicles"/>
+    <file name="pasted image 170x121.jpg" crc="4285866476" ref="airforcevehicles"/>
+    <file name="pasted image 170x108.jpg" crc="4107183106" ref="airforcevehicles"/>
+    <file name="pasted image 170x107.jpg" crc="267241692" ref="airforcevehicles"/>
+    <file name="pasted image 170x1132.jpg" crc="517742877" ref="airforcevehicles"/>
+    <file name="pasted image 170x96.jpg" crc="3983845413" ref="airforcevehicles"/>
+    <file name="pasted image 170x1133.jpg" crc="99966072" ref="airforcevehicles"/>
+    <file name="pasted image 170x1282.jpg" crc="361690372" ref="airforcevehicles"/>
+    <file name="pasted image 170x98.jpg" crc="533384371" ref="airforcevehicles"/>
+    <file name="pasted image 170x117.jpg" crc="3895208568" ref="airforcevehicles"/>
+    <file name="pasted image 170x1283.jpg" crc="201377861" ref="airforcevehicles"/>
+    <file name="pasted image 300x177.jpg" crc="111162588" ref="airforcevehicles"/>
+    <file name="u1722-grad.png" crc="350015719" ref="armyvehicles"/>
+    <file name="u1722-r-grad.png" crc="4277791207" ref="armyvehicles"/>
+    <file name="u1722-m-grad.png" crc="241460815" ref="armyvehicles"/>
+    <file name="pasted image 150x113.jpg" crc="347344190" ref="armyvehicles"/>
+    <file name="pasted image 150x96.jpg" crc="194606751" ref="armyvehicles"/>
+    <file name="pasted image 150x139.jpg" crc="3884381427" ref="armyvehicles"/>
+    <file name="pasted image 150x1132.jpg" crc="3889192404" ref="armyvehicles"/>
+    <file name="pasted image 150x962.jpg" crc="3947218232" ref="armyvehicles"/>
+    <file name="pasted image 150x100.jpg" crc="4078619217" ref="armyvehicles"/>
+    <file name="pasted image 240x160.jpg" crc="514805611" ref="armyvehicles"/>
+    <file name="pasted image 300x141.jpg" crc="4063558791" ref="armyvehicles"/>
+    <file name="pasted image 300x187.jpg" crc="246631333" ref="armyvehicles"/>
+    <file name="pasted image 300x225.jpg" crc="3982188114" ref="armyvehicles"/>
+    <file name="pasted image 300x200.jpg" crc="256185455" ref="armyvehicles"/>
+    <file name="pasted image 218x382.jpg" crc="3822560600" ref="armyvehicles"/>
+    <file name="pasted image 250x555.jpg" crc="105176050" ref="armyvehicles"/>
+    <file name="pasted image 300x368.jpg" crc="3773753528" ref="armyvehicles"/>
+    <file name="pasted image 250x161.jpg" crc="3786199189" ref="armyvehicles"/>
+    <file name="pasted image 300x453.jpg" crc="4149878175" ref="armyvehicles"/>
+    <file name="u738-grad.png" crc="274625956" ref="navy"/>
+    <file name="u743-r-grad.png" crc="183316005" ref="navy"/>
+    <file name="u743-m-grad.png" crc="433047211" ref="navy"/>
+  </folder>
+  <file name="index.html" crc="4070235603" mt="1414571083000" redirect="true"/>
+  <file name="army.html" crc="4260263833" mt="1414507965919" redirect="true"/>
+  <file name="navy.html" crc="235379847" mt="1415629134432" redirect="true"/>
+  <file name="air-force.html" crc="3837488818" mt="1414506591111" redirect="true"/>
+  <file name="about-us.html" crc="4027401119" mt="1414571082911" redirect="true"/>
+  <file name="vehicles.html" crc="206524090" mt="1414506591124" redirect="true"/>
+  <file name="navyvehicles.html" crc="111368199" mt="1414570210142" redirect="true"/>
+  <file name="airforcevehicles.html" crc="184011610" mt="1414570209507" redirect="true"/>
+  <file name="armyvehicles.html" crc="65576378" mt="1414572128869" redirect="true"/>
+  <file name="register.html" crc="269163818" mt="1414572153867" redirect="true"/>
+</manifest>

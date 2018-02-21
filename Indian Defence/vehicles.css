@@ -1,0 +1,671 @@
+.version.vehicles /* version checker */
+{
+	color: #00000F;
+	background-color: #012C7D;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/10519-mcdonnell-douglas-f-15-eagle-1366x768-aircraft-wallpaper2.jpg") repeat left top fixed;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 437px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 63px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menuu1923
+{
+	z-index: 15;
+	width: 740px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 153px;
+	left: 50%;
+	margin-left: -356px;
+}
+
+#u1959
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1960
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u1960:hover
+{
+	background: transparent url("../images/u635-r-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(153, 153, 153, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1960:active
+{
+	background: transparent url("../images/u635-m-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(107, 107, 107, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1962-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u1960:hover #u1962-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1960:active #u1962-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1931
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 106px;
+}
+
+#u1934
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u1934:hover
+{
+	background: transparent url("../images/u635-r-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(153, 153, 153, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1934:active
+{
+	background: transparent url("../images/u635-m-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(107, 107, 107, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1935-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u1960.MuseMenuActive #u1962-4,#u1934:hover #u1935-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1934:active #u1935-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1924
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 212px;
+}
+
+#u1927
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u1927:hover
+{
+	background: transparent url("../images/u635-r-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(153, 153, 153, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1927:active
+{
+	background: transparent url("../images/u635-m-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(107, 107, 107, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1928-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u1934.MuseMenuActive #u1935-4,#u1927:hover #u1928-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1927:active #u1928-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1938
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 318px;
+}
+
+#u1939
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u1939:hover
+{
+	background: transparent url("../images/u635-r-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(153, 153, 153, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1939:active
+{
+	background: transparent url("../images/u635-m-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(107, 107, 107, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1940-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u1927.MuseMenuActive #u1928-4,#u1939:hover #u1940-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1939:active #u1940-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1952
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 424px;
+}
+
+#u1955
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u1955.MuseMenuActive
+{
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1958-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+	left: 0px;
+}
+
+#u1939.MuseMenuActive #u1940-4,#u1955:hover #u1958-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1955:active #u1958-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1945
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 530px;
+}
+
+#u1946
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u1946:hover
+{
+	background: transparent url("../images/u635-r-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(153, 153, 153, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1946:active
+{
+	background: transparent url("../images/u635-m-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(107, 107, 107, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u1949-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u1955.MuseMenuActive #u1958-4,#u1946:hover #u1949-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1946:active #u1949-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2039
+{
+	width: 104px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 636px;
+}
+
+#u2040
+{
+	width: 104px;
+	background: transparent url("../images/u644-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(253, 208, 1, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(253, 208, 1, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u2040:hover
+{
+	background: transparent url("../images/u635-r-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(153, 153, 153, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(153, 153, 153, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u2040:active
+{
+	background: transparent url("../images/u635-m-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(107, 107, 107, 0.46)),color-stop(100%, rgba(251, 176, 59, 0.5)));
+	background: -webkit-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: -o-linear-gradient(left,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	background: linear-gradient(to right,rgba(107, 107, 107, 0.46) ,rgba(251, 176, 59, 0.5) 100%);
+	margin: 0px;
+}
+
+#u2041-4
+{
+	width: 104px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u1946.MuseMenuActive #u1949-4,#u2040:hover #u2041-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2040:active #u2041-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2040.MuseMenuActive #u2041-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1616
+{
+	z-index: 2;
+	width: 230px;
+	height: 353px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 171px;
+	left: 124px;
+	background: #FFFFFF url("../images/t-90-bhishma-iso1-u1616-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#ppu1921-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	margin-left: 356px;
+}
+
+#pu1921-4
+{
+	width: 0.01px;
+}
+
+#u1921-4
+{
+	z-index: 7;
+	width: 118px;
+	min-height: 30px;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	color: #FDD001;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+}
+
+#u1919
+{
+	z-index: 5;
+	width: 64px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 126px;
+}
+
+#u1922-4
+{
+	z-index: 11;
+	width: 156px;
+	min-height: 41px;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	color: #FDD001;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 208px;
+}
+
+#pu1618
+{
+	width: 0.01px;
+	margin-left: 23px;
+	margin-top: 94px;
+}
+
+#u1618
+{
+	z-index: 3;
+	width: 228px;
+	height: 353px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/aircraft-carrier-ins-vikramaditya-indian-navy-04-u1618-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1619
+{
+	z-index: 4;
+	width: 230px;
+	height: 354px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 253px;
+	background: #FFFFFF url("../images/su-30mki_super%20sukhois_1-u1619-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
